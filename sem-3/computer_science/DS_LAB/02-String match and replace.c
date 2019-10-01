@@ -46,4 +46,5 @@ void main()
 	printf("The final string is:\n%s",ans);
 	else
 	printf("Invalid string");
+	printf("I win!")
 }
